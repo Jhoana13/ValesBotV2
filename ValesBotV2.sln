@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValesBotV2", "ValesBotV2\ValesBotV2.csproj", "{A5AE48E6-75E4-48BE-9544-8672B4FE04A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5AE48E6-75E4-48BE-9544-8672B4FE04A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5AE48E6-75E4-48BE-9544-8672B4FE04A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5AE48E6-75E4-48BE-9544-8672B4FE04A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5AE48E6-75E4-48BE-9544-8672B4FE04A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D37558FC-A60B-428F-9269-852BB34918D7}
+	EndGlobalSection
+EndGlobal
