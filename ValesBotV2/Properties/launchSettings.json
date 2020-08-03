@@ -16,13 +16,13 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "$safeprojectname$": {
+    "ValesBotV2": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:3979;http://localhost:3978",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      }
+      },
+      "applicationUrl": "http://localhost:32754"
     }
   }
 }
